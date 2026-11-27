@@ -139,8 +139,6 @@ Zepto_Project/
 ├── zepto_inventory_analysis.sql
 │
 ├── README.md
-│
-└── screenshots/
 ```
 
 ## Learning Outcomes
